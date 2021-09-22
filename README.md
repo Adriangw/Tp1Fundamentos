@@ -4,7 +4,7 @@ Este proyecto fué desarrollado utilizando [Typescript](https://www.typescriptla
 
 ## Nodejs
 
-Para poder lanzar la aplicación se debe intalar [nodejs](https://nodejs.org/es/) que además instalará el gestor de paquetes npm.
+Para poder lanzar la aplicación se debe instalar [nodejs](https://nodejs.org/es/) que además instalará el gestor de paquetes npm.
 
 ## Luego de Clonar
 
