@@ -2,6 +2,10 @@
 
 Este proyecto fué desarrollado utilizando [Typescript](https://www.typescriptlang.org/) y [Reactjs](https://es.reactjs.org/).
 
+## Nodejs
+
+Para poder lanzar la aplicación se debe intalar [nodejs](https://nodejs.org/es/) que además instalará el gestor de paquetes npm.
+
 ## Luego de Clonar
 
 En el directorio del Proyecto ejecutar:
