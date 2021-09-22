@@ -1,6 +1,6 @@
 # Fundamentos Teóricos de Informática trabajo práctico N° 1
 
-Este proyecto fué desarrollado utilizando Typescript y Reactjs [Reactjs](https://es.reactjs.org/).
+Este proyecto fué desarrollado utilizando [Typescript](https://www.typescriptlang.org/) y [Reactjs](https://es.reactjs.org/).
 
 ## Luego de Clonar
 
